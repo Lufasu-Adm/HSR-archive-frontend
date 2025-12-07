@@ -34,9 +34,7 @@ To see the API Logic (Laravel), please visit the backend repository:
 
 | Meta Tier List | Character Detail & Build |
 | :---: | :---: |
-| <img src="https://placehold.co/600x400?text=Tier+List+Screenshot" alt="Tier List" width="100%"> | <img src="https://placehold.co/600x400?text=Detail+Page+Screenshot" alt="Detail Page" width="100%"> |
-
-*(You can update these placeholders with your actual screenshots after pushing to GitHub)*
+| <img src="https://github.com/Lufasu-Adm/HSR-archive-frontend/blob/main/meta%20tier%20list.png " alt="Tier List" width="100%"> | <img src="https://github.com/Lufasu-Adm/HSR-archive-frontend/blob/main/build.png" alt="Detail Page" width="100%"> |
 
 ---
 
